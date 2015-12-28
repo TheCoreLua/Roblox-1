@@ -27,7 +27,7 @@ page = {
 "185166187"  --20 pending..
 }
 
-allowed = {"AnimeSource","AnimeWikia","iiXynx","12packkid",owner.Name,"AnimeWiki"}
+allowed = {"AnimeSource","AnimeWikia","iiXynx","12packkid",owner.Name,",MrDCL"}
 locked = false
 part = Instance.new("Part", game.Workspace:FindFirstChild("AnimeSource") or game.Workspace)
 part.Anchored = true
